@@ -1,0 +1,19 @@
+# Ignore build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio Code folders
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Other generated files
+*.db
+*.DS_Store
+Thumbs.db
